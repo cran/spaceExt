@@ -1,0 +1,3 @@
+space.miss         A function for covariance selection by SPACE method with EM.
+glasso.miss        A function for covariance selection by GLASSO method with EM.
+finStocksCn        A data set containing continuously compounded daily returns of financial sector of Chinese stock market.

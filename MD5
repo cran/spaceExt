@@ -1,0 +1,10 @@
+d2624f1fbd71d6cfe3d8efe92ed58967 *DESCRIPTION
+634c5ac945e99cab000e316f5ce318c5 *INDEX
+803031866a25f848d65a25b0d54120e3 *NAMESPACE
+f87d7d842f0ad8cb098f645bcb370a62 *R/space.R
+af608b67980b6ac3fe4db019f54044b8 *data/finStocksCn.rda
+dbe63270ba522134bde98650efbd3fa6 *man/finStockCn.Rd
+627d065a807a7bc1c20b1b89f9b5dacd *man/glasso.miss.Rd
+c1998c771af727b06c8254ffcd2dfebf *man/space.miss.Rd
+296aadeeb6f7b75b299608a47a18860c *src/JSRM.c
+2b914293b9b510954679a65a7629fbbc *src/JSRM2.c
